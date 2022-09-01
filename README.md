@@ -10,8 +10,10 @@
 
 * Install all python package dependencies using pip.
 * Modify the Server.py file and input the desired email address and password.
-* Run the Server code by $python3 Server.py
-
+* Run the Server code by 
+```bash
+$ python3 Server.py
+```
 # Contact #
 
 If you have any questions, contact us at sininoir@gmail.com or Behzad.shayegh@ut.ac.ir
