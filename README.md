@@ -16,4 +16,4 @@ $ python3 Server.py
 ```
 # Contact #
 
-If you have any questions, contact us at sininoir@gmail.com or Behzad.shayegh@ut.ac.ir
+If you have any questions, contact us at sina-kamali@outlook.com or Behzad.shayegh@ut.ac.ir
